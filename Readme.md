@@ -14,10 +14,10 @@ Application minimale pour illustrer Docker avec Python 3.10 et Flask.
 git clone https://github.com/bim12/TEST_DOCKER.git
 cd TEST_DOCKER
 
-### 2. Construire l'image Docker
+## 2. Construire l'image Docker
 docker build -t test_docker .
 
-### 3. Lancer le conteneur
+## 3. Lancer le conteneur
 docker run -p 5000:5000 --name test_docker
 
 Ouvrir http://localhost:5000 dans un navigateur pour voir l'application en action.
