@@ -4,7 +4,7 @@ Application minimale pour illustrer Docker avec Python 3.10 et Flask.
 
 ## 📋 Prérequis  
 - Docker Desktop installé  
-- Git (optionnel)  
+- Git
 - Python 3.10 (pour dev local)  
 
 ## 🚀 Workflow  
