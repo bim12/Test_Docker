@@ -9,7 +9,7 @@ Application minimale pour illustrer Docker avec Python 3.10 et Flask.
 
 ## 🚀 Workflow  
 
-### 1. Cloner le dépôt (pour les collaborateurs)  
+## 1. Cloner le dépôt (pour les collaborateurs)  
 ```bash
 git clone https://github.com/bim12/TEST_DOCKER.git
 cd TEST_DOCKER
