@@ -1,0 +1,26 @@
+# Environnement virtuel Python
+.venv/
+venv/
+
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+
+# Fichiers de configuration sensible et autres
+.env
+*.secret
+*.pyo
+*.pyd
+*.pkl
+*.pkl.gz
+*.db
+*.sqlite3
+*.log
+*.csv
+
+# Docker (optionnel)
+docker-compose.override.yml
+
+# Éditeurs/IDE
+.vscode/
+.idea/
